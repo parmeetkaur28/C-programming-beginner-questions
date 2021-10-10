@@ -1,1 +1,23 @@
-
+CONTROL STRUCTURES INDEX
+	
+1.  Write a program to calculate area of circle.
+2.  Write a program to calculate average of 3 numbers.
+3.  Write a program to calculate area and perimeter of rectangle.
+4.  Write a program to calculate simple interest. Take input for principle amount, rate of interest and no. of terms from the user.
+5.  Write a program to perform swappping of two numbers.
+6.  Postfix and Prefix - 1
+7.  Postfix and Prefix - 1
+8.  Assignment Operator
+9.  Relational Operator
+10. Logical Operator
+11. Bitwise AND OR XOR 
+12. Shiftwise Operator
+13. Complement Operator
+14. Maximum of 2 integer numbers using ternary operator
+15. Eligible for voting using ternary operator
+16. Min of 3 numbers using ternary operator
+17. Even or odd using ternary operator
+18. Size of operator
+19. Operator Precedence
+20. Implicit Type Casting
+21. Explicit Type Casting
